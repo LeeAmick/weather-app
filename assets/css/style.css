@@ -1,0 +1,61 @@
+* {
+    font-family: 'Wix Madefor Display', sans-serif;
+}
+
+.navbar {
+    background-color: #444140 !important;
+    border-bottom: 1px solid #1e1e24;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+.navbar-brand {
+    color: #ffa987 !important;
+}
+
+body {
+    background-color: #f7ebe8;
+}
+
+.btn {
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+.btn-secondary {
+    background-color: #e54b4b;
+}
+
+.btn-dark {
+    background-color: #444140;
+}
+
+.btn-secondary:hover {
+    background-color: #e49090;
+}
+
+.btn-dark:hover {
+    background-color: #817c7a;
+}
+
+.form-control {
+    background-color: #f7ebe8;
+    border: 0.5px solid #1e1e243a;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    padding: 1%;
+    background-color: #f7ebe8;
+    border: 0.5px solid #1e1e243a;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card {
+    background-color: #f7ebe8;
+    border: 0.5px solid #1e1e243a;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-header {
+    background-color: #e54b4b;
+    color: #f7ebe8;
+}
