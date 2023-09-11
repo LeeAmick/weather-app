@@ -1,5 +1,5 @@
 // Storing the API key for OpenWeatherMap
-const apiKey = "";
+const apiKey = "43abc06528c6388e0d85fb54c7014cc8";
 
 // URL for making API requests
 let queryURL = "https://api.openweathermap.org/data/2.5/weather?";
