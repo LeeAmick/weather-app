@@ -10,6 +10,7 @@ This is a simple Weather Dashboard web application that allows users to check th
 - [Credits](#credits)
 - [License](#license)
 
+## URL [weather-app](https://leeamick.github.io/weather-app/)
 ## Demo
 
 ![Weather Dashboard App Screenshot](./assets/images/weather-app.png)
